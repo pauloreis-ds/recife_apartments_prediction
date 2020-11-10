@@ -1,0 +1,5 @@
+streamlit==0.70.0
+sklearn==0.0
+jsonschema==3.2.0
+numpy==1.19.4
+pickleshare==0.7.5
